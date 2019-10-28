@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */		
+body {
+	background-color: powderblue;}
+h1 	{
+	color: steelblue;
+    font-family: Helvetica;
+    font-size: 48px;}
+h2 	{
+	color: cadetblue;
+    font-family: times;
+    font-size: 38px;}
+h3 	{
+	color: powderblue;
+    font-family: verdana;
+    font-size: 30px;}
+h4 	{
+	color: slategray;
+    font-family: georgia;
+    font-size: 24px;}
+ h5 	{
+	color: maroon;
+    font-family: verdana;
+    font-size: 24px;}
+p    {
+	font-size: 18px; 
+	line-height: 22px; 
+	font-style: italic; 
+	text-align: left;
+	color: #000;} 
+p.small {
+	font-size: 12px; 
+	line-height: 14px;
+	font-style: normal;}	
+
+#container
+{
+	width: "1600px"; 
+	height: "900px";
+	background-color: #ff9;
+
+}
